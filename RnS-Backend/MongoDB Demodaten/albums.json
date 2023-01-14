@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6286343cf8470b9fd1b09962"
+  },
+  "title": "Random Access Memories",
+  "released": "2013",
+  "label": "Columbia",
+  "genres": [
+    "Disco",
+    "Funk",
+    "Electronic"
+  ],
+  "artists": [
+    "6286354bf8470b9fd1b09965"
+  ]
+},{
+  "_id": {
+    "$oid": "628635dff8470b9fd1b09968"
+  },
+  "title": "Ivory Tower",
+  "released": "2010",
+  "label": "Gentle Threat",
+  "genres": [
+    "Disco",
+    "Hip Hop"
+  ],
+  "artists": []
+}]
